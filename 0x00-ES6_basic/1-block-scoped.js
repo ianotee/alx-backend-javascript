@@ -1,5 +1,5 @@
-/*The  eslint-disable no-unused-vars */
-/*The  eslint-disable no-var */
+/*  eslint-disable no-unused-vars */
+/*  eslint-disable no-var */
 export default function taskBlock(trueOrFalse) {
   var task = false;
   var task2 = true;
